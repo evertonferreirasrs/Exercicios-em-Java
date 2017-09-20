@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/AULA1/model/src/jrr/aula/model/main.java</file>
+            <file>file:/D:/AULA1/model/src/jrr/aula/model/service/CategoriaService.java</file>
+            <file>file:/D:/AULA1/model/src/jrr/aula/model/entity/Categoria.java</file>
+            <file>file:/D:/AULA1/model/src/jrr/aula/model/base/service/BaseCategoriaService.java</file>
+            <file>file:/D:/AULA1/model/src/jrr/aula/model/base/BaseEntity.java</file>
+            <file>file:/D:/AULA1/model/src/jrr/aula/model/base/BaseCrudService.java</file>
+        </group>
+    </open-files>
+</project-private>

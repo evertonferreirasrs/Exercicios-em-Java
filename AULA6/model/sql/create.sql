@@ -1,0 +1,5 @@
+CREATE TABLE categoria(
+    id BIGSERIAL NOT NULL,
+    nome VARCHAR(100) UNIQUE NOT NULL,
+    PRIMARY KEY(id)
+);

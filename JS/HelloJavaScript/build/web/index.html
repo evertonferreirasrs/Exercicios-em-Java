@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+
+        <label>N1</label>
+        <input type="text" class="inputN" onkeyup="validar()" value="0"/>
+
+        <br/>
+
+        <label for="inputN2">N2</label>
+        <input type="text" class="inputN" value="0" onkeyup="validar()"/>  
+
+        <br/>
+
+        <label for="inputN2">N3</label>
+        <input type="text" class="inputN" value="0" onkeyup="validar()"/> 
+
+        <br/><br/>
+        <button id="btnSomatorio">Somar</button>
+        <button id="btnLimpar">Limpar</button>
+
+        <br/>
+        <p id="pResultado"></p>
+
+        <script>
+
+            document.getElementById("btnSomatorio").onclick = somatorio;
+            document.getElementById("btnLimpar").onclick = limpar;
+
+            document.getElementById("btnLimpar").onkeyup = validar;
+
+            function validar() {
+                var inputs = document.getElementsByClassName("inputN");
+                for (i = 0; i < inputs.length; i++) {
+                    if (isNaN(inputs[i].value) || inputs[i].value == "") {
+                        inputs[i].value = "0";
+                    }
+                }
+                var pResultado = document.getElementById("pResultado");
+                pResultado.innerHTML = "";
+
+            }
+
+            function somatorio() {
+
+                var inputs = document.getElementsByClassName("inputN");
+                var resultado = 0;
+                for (i = 0; i < inputs.length; i++) {
+                    resultado += parseInt(inputs[i].value);
+                }
+                var pResultado = document.getElementById("pResultado");
+                pResultado.innerHTML = "Resultado: " + resultado;
+
+                //var n1 = parseInt(document.getElementById("inputN1").value);
+                //var n2 = parseInt(document.getElementById("inputN2").value);
+                //var resultado = n1 + n2;
+                //var pResultado = document.getElementById("pResultado");
+                //pResultado.innerHTML = "Resultado: " + resultado;
+            }
+
+            function limpar() {
+                var inputs = document.getElementsByClassName("inputN");
+                for (i = 0; i < inputs.length; i++) {
+                    inputs[i].value = "0";
+                }
+                var pResultado = document.getElementById("pResultado");
+                pResultado.innerHTML = "";
+
+            }
+
+        </script>
+    </body>
+</html>
