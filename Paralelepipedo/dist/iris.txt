@@ -1,0 +1,2700 @@
+PetallengthMax :1.4
+PetallengthMin :1.4
+PetalwidthMax :0.2
+PetalwidthMin :0.2
+SepallengthMax :5.1
+SepallengthMin :5.1
+SepalwidthMax :3.5
+SepalwidthMin :3.5
+---------------------------
+PetallengthMax :1.4
+PetallengthMin :1.4
+PetalwidthMax :0.2
+PetalwidthMin :0.2
+SepallengthMax :5.1
+SepallengthMin :4.9
+SepalwidthMax :3.5
+SepalwidthMin :3.0
+---------------------------
+PetallengthMax :1.4
+PetallengthMin :1.3
+PetalwidthMax :0.2
+PetalwidthMin :0.2
+SepallengthMax :5.1
+SepallengthMin :4.7
+SepalwidthMax :3.5
+SepalwidthMin :3.0
+---------------------------
+PetallengthMax :1.5
+PetallengthMin :1.3
+PetalwidthMax :0.2
+PetalwidthMin :0.2
+SepallengthMax :5.1
+SepallengthMin :4.6
+SepalwidthMax :3.5
+SepalwidthMin :3.0
+---------------------------
+PetallengthMax :1.5
+PetallengthMin :1.3
+PetalwidthMax :0.2
+PetalwidthMin :0.2
+SepallengthMax :5.1
+SepallengthMin :4.6
+SepalwidthMax :3.6
+SepalwidthMin :3.0
+---------------------------
+PetallengthMax :1.7
+PetallengthMin :1.3
+PetalwidthMax :0.4
+PetalwidthMin :0.2
+SepallengthMax :5.4
+SepallengthMin :4.6
+SepalwidthMax :3.9
+SepalwidthMin :3.0
+---------------------------
+PetallengthMax :1.7
+PetallengthMin :1.3
+PetalwidthMax :0.4
+PetalwidthMin :0.2
+SepallengthMax :5.4
+SepallengthMin :4.6
+SepalwidthMax :3.9
+SepalwidthMin :3.0
+---------------------------
+PetallengthMax :1.7
+PetallengthMin :1.3
+PetalwidthMax :0.4
+PetalwidthMin :0.2
+SepallengthMax :5.4
+SepallengthMin :4.6
+SepalwidthMax :3.9
+SepalwidthMin :3.0
+---------------------------
+PetallengthMax :1.7
+PetallengthMin :1.3
+PetalwidthMax :0.4
+PetalwidthMin :0.2
+SepallengthMax :5.4
+SepallengthMin :4.4
+SepalwidthMax :3.9
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.7
+PetallengthMin :1.3
+PetalwidthMax :0.4
+PetalwidthMin :0.1
+SepallengthMax :5.4
+SepallengthMin :4.4
+SepalwidthMax :3.9
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.7
+PetallengthMin :1.3
+PetalwidthMax :0.4
+PetalwidthMin :0.1
+SepallengthMax :5.4
+SepallengthMin :4.4
+SepalwidthMax :3.9
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.7
+PetallengthMin :1.3
+PetalwidthMax :0.4
+PetalwidthMin :0.1
+SepallengthMax :5.4
+SepallengthMin :4.4
+SepalwidthMax :3.9
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.7
+PetallengthMin :1.3
+PetalwidthMax :0.4
+PetalwidthMin :0.1
+SepallengthMax :5.4
+SepallengthMin :4.4
+SepalwidthMax :3.9
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.7
+PetallengthMin :1.1
+PetalwidthMax :0.4
+PetalwidthMin :0.1
+SepallengthMax :5.4
+SepallengthMin :4.3
+SepalwidthMax :3.9
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.7
+PetallengthMin :1.1
+PetalwidthMax :0.4
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.0
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.7
+PetallengthMin :1.1
+PetalwidthMax :0.4
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.7
+PetallengthMin :1.1
+PetalwidthMax :0.4
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.7
+PetallengthMin :1.1
+PetalwidthMax :0.4
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.7
+PetallengthMin :1.1
+PetalwidthMax :0.4
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.7
+PetallengthMin :1.1
+PetalwidthMax :0.4
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.7
+PetallengthMin :1.1
+PetalwidthMax :0.4
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.7
+PetallengthMin :1.1
+PetalwidthMax :0.4
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.7
+PetallengthMin :1.0
+PetalwidthMax :0.4
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.7
+PetallengthMin :1.0
+PetalwidthMax :0.5
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.5
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.5
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.5
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.5
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.5
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.5
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.5
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.5
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.5
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.5
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.5
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.5
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.5
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.5
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.5
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.5
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.5
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.9
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.5
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.5
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.7
+PetallengthMin :4.7
+PetalwidthMax :1.4
+PetalwidthMin :1.4
+SepallengthMax :7.0
+SepallengthMin :7.0
+SepalwidthMax :3.2
+SepalwidthMin :3.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.7
+PetallengthMin :4.5
+PetalwidthMax :1.5
+PetalwidthMin :1.4
+SepallengthMax :7.0
+SepallengthMin :6.4
+SepalwidthMax :3.2
+SepalwidthMin :3.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :4.5
+PetalwidthMax :1.5
+PetalwidthMin :1.4
+SepallengthMax :7.0
+SepallengthMin :6.4
+SepalwidthMax :3.2
+SepalwidthMin :3.1
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :4.0
+PetalwidthMax :1.5
+PetalwidthMin :1.3
+SepallengthMax :7.0
+SepallengthMin :5.5
+SepalwidthMax :3.2
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :4.0
+PetalwidthMax :1.5
+PetalwidthMin :1.3
+SepallengthMax :7.0
+SepallengthMin :5.5
+SepalwidthMax :3.2
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :4.0
+PetalwidthMax :1.5
+PetalwidthMin :1.3
+SepallengthMax :7.0
+SepallengthMin :5.5
+SepalwidthMax :3.2
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :4.0
+PetalwidthMax :1.6
+PetalwidthMin :1.3
+SepallengthMax :7.0
+SepallengthMin :5.5
+SepalwidthMax :3.3
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :3.3
+PetalwidthMax :1.6
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :3.3
+PetalwidthMax :1.6
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :3.3
+PetalwidthMax :1.6
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :3.3
+PetalwidthMax :1.6
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :3.3
+PetalwidthMax :1.6
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :3.3
+PetalwidthMax :1.6
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :3.3
+PetalwidthMax :1.6
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :3.3
+PetalwidthMax :1.6
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :3.3
+PetalwidthMax :1.6
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :3.3
+PetalwidthMax :1.6
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :3.3
+PetalwidthMax :1.6
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :3.3
+PetalwidthMax :1.6
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :3.3
+PetalwidthMax :1.6
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :4.9
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.0
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.0
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.0
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.0
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.0
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.0
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.3
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.0
+PetallengthMin :6.0
+PetalwidthMax :2.5
+PetalwidthMin :2.5
+SepallengthMax :6.3
+SepallengthMin :6.3
+SepalwidthMax :3.3
+SepalwidthMin :3.3
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.0
+PetallengthMin :5.1
+PetalwidthMax :2.5
+PetalwidthMin :1.9
+SepallengthMax :6.3
+SepallengthMin :5.8
+SepalwidthMax :3.3
+SepalwidthMin :2.7
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.0
+PetallengthMin :5.1
+PetalwidthMax :2.5
+PetalwidthMin :1.9
+SepallengthMax :7.1
+SepallengthMin :5.8
+SepalwidthMax :3.3
+SepalwidthMin :2.7
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.0
+PetallengthMin :5.1
+PetalwidthMax :2.5
+PetalwidthMin :1.8
+SepallengthMax :7.1
+SepallengthMin :5.8
+SepalwidthMax :3.3
+SepalwidthMin :2.7
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.0
+PetallengthMin :5.1
+PetalwidthMax :2.5
+PetalwidthMin :1.8
+SepallengthMax :7.1
+SepallengthMin :5.8
+SepalwidthMax :3.3
+SepalwidthMin :2.7
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.6
+PetallengthMin :5.1
+PetalwidthMax :2.5
+PetalwidthMin :1.8
+SepallengthMax :7.6
+SepallengthMin :5.8
+SepalwidthMax :3.3
+SepalwidthMin :2.7
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.6
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.7
+SepallengthMax :7.6
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.5
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.6
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.7
+SepallengthMax :7.6
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.5
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.6
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.7
+SepallengthMax :7.6
+SepallengthMin :4.9
+SepalwidthMax :3.3
+SepalwidthMin :2.5
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.6
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.7
+SepallengthMax :7.6
+SepallengthMin :4.9
+SepalwidthMax :3.6
+SepalwidthMin :2.5
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.6
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.7
+SepallengthMax :7.6
+SepallengthMin :4.9
+SepalwidthMax :3.6
+SepalwidthMin :2.5
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.6
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.7
+SepallengthMax :7.6
+SepallengthMin :4.9
+SepalwidthMax :3.6
+SepalwidthMin :2.5
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.6
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.7
+SepallengthMax :7.6
+SepallengthMin :4.9
+SepalwidthMax :3.6
+SepalwidthMin :2.5
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.6
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.7
+SepallengthMax :7.6
+SepallengthMin :4.9
+SepalwidthMax :3.6
+SepalwidthMin :2.5
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.6
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.7
+SepallengthMax :7.6
+SepallengthMin :4.9
+SepalwidthMax :3.6
+SepalwidthMin :2.5
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.6
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.7
+SepallengthMax :7.6
+SepallengthMin :4.9
+SepalwidthMax :3.6
+SepalwidthMin :2.5
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.6
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.7
+SepallengthMax :7.6
+SepallengthMin :4.9
+SepalwidthMax :3.6
+SepalwidthMin :2.5
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.7
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.7
+SepallengthMax :7.7
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.5
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.7
+SepallengthMax :7.7
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.5
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.5
+SepallengthMax :7.7
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.5
+SepallengthMax :7.7
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.5
+SepallengthMax :7.7
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.5
+SepallengthMax :7.7
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.5
+SepallengthMax :7.7
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.5
+SepallengthMax :7.7
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.5
+SepallengthMax :7.7
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.5
+SepallengthMax :7.7
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.5
+SepallengthMax :7.7
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.5
+SepallengthMax :7.7
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.5
+SepallengthMax :7.7
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.5
+SepallengthMax :7.7
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.5
+SepallengthMax :7.9
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.5
+SepallengthMax :7.9
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.5
+SepallengthMax :7.9
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.4
+SepallengthMax :7.9
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.4
+SepallengthMax :7.9
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.4
+SepallengthMax :7.9
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.4
+SepallengthMax :7.9
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.4
+SepallengthMax :7.9
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.4
+SepallengthMax :7.9
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.4
+SepallengthMax :7.9
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.4
+SepallengthMax :7.9
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.4
+SepallengthMax :7.9
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.4
+SepallengthMax :7.9
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.4
+SepallengthMax :7.9
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.4
+SepallengthMax :7.9
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.4
+SepallengthMax :7.9
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.4
+SepallengthMax :7.9
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.4
+SepallengthMax :7.9
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
+PetallengthMax :5.1
+PetallengthMin :3.0
+PetalwidthMax :1.8
+PetalwidthMin :1.0
+SepallengthMax :7.0
+SepallengthMin :4.9
+SepalwidthMax :3.4
+SepalwidthMin :2.0
+---------------------------
+PetallengthMax :6.9
+PetallengthMin :4.5
+PetalwidthMax :2.5
+PetalwidthMin :1.4
+SepallengthMax :7.9
+SepallengthMin :4.9
+SepalwidthMax :3.8
+SepalwidthMin :2.2
+---------------------------
+PetallengthMax :1.9
+PetallengthMin :1.0
+PetalwidthMax :0.6
+PetalwidthMin :0.1
+SepallengthMax :5.8
+SepallengthMin :4.3
+SepalwidthMax :4.4
+SepalwidthMin :2.3
+---------------------------
