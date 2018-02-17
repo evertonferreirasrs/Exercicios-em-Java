@@ -1,0 +1,321 @@
+br.com.model
+----------------------------------------------------------------------------------------
+entity
+-Cliente
+package br.com.model.entity;
+
+import br.com.model.base.BaseEntity;
+
+public class Cliente extends BaseEntity{
+	private String nome;
+	private String sexo;
+	private String endereco;
+	private String numeroEndereco;
+	private String descricao;
+	public String getNome() {
+		return nome;
+	}
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+	public String getSexo() {
+		return sexo;
+	}
+	public void setSexo(String sexo) {
+		this.sexo = sexo;
+	}
+	public String getEndereco() {
+		return endereco;
+	}
+	public void setEndereco(String endereco) {
+		this.endereco = endereco;
+	}
+	public String getNumeroEndereco() {
+		return numeroEndereco;
+	}
+	public void setNumeroEndereco(String numeroEndereco) {
+		this.numeroEndereco = numeroEndereco;
+	}
+	public String getDescricao() {
+		return descricao;
+	}
+	public void setDescricao(String descricao) {
+		this.descricao = descricao;
+	}
+}
+----------------------------------------------------------------------------------------
+base
+-BaseEntity
+package br.com.model.base;
+
+public abstract class BaseEntity {
+	private Long id;
+
+	public Long getId() {
+		return id;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
+	}	
+}
+
+-BaseCRUDSERVICE
+package br.com.model.base;
+
+import java.util.List;
+import java.util.Map;
+
+public interface BaseCRUDService <E extends BaseEntity>{
+	
+	public void create (E entity) throws Exception;
+	public List<E> readyByCriteria (Map<Integer, Object> criteria)throws Exception;
+	public void update (E entity) throws Exception;
+	public void delete (E entity) throws Exception;
+}
+
+-BaseDAO
+package br.com.model.base;
+
+import java.sql.Connection;
+import java.util.List;
+import java.util.Map;
+
+public interface BaseDAO <E extends BaseEntity> {
+	
+	public void create (Connection conn, E entity) throws Exception;
+	public List<E> readyByCriteria (Connection conn, Map<Integer, Object> criteria)throws Exception;
+	public void update (Connection conn, E entity) throws Exception;
+	public void delete (Connection conn, E entity) throws Exception;
+
+}
+----------------------------------------------------------------------------------------
+criteria
+-CLienteCriteria
+package br.com.model.criteria;
+
+public class ClienteCriteria {
+	public static Integer ID_IGUAL = 0;
+}
+----------------------------------------------------------------------------------------
+dao
+-ClienteDAO
+package br.com.model.dao;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+
+import br.com.model.base.BaseDAO;
+import br.com.model.entity.Cliente;
+
+public class ClienteDAO implements BaseDAO<Cliente>{
+
+	@Override
+	public void create(Connection conn, Cliente entity) throws Exception {
+		String sql = "INSERT INTO cliente (id, nome, sexo, endereco, numeroEndereco, descricao) VALUES (NUM_SEQ.NEXTVAL, ?, ?, ?, ?, ?) ";
+		PreparedStatement ps = conn.prepareStatement(sql);
+		int i = 0;
+		
+		ps.setString(++i, entity.getNome());
+		ps.setString(++i, entity.getSexo());
+		ps.setString(++i, entity.getEndereco());
+		ps.setString(++i, entity.getNumeroEndereco());
+		ps.setString(++i, entity.getDescricao());
+		
+		ps.executeQuery();
+		ps.close();
+	}
+
+	@Override
+	public List<Cliente> readyByCriteria(Connection conn, Map<Integer, Object> criteria) throws Exception {
+		String sql = "SELECT * FROM cliente WHERE 1=1 ";
+		PreparedStatement ps = conn.prepareStatement(sql);
+		ResultSet rs = ps.executeQuery();
+		List<Cliente> clienteList = new ArrayList<>();
+		while(rs.next()){
+			Cliente cliente = new Cliente();
+			cliente.setId(rs.getLong("id"));
+			cliente.setNome(rs.getString("nome"));
+			cliente.setSexo(rs.getString("sexo"));
+			cliente.setEndereco(rs.getString("endereco"));
+			cliente.setNumeroEndereco(rs.getString("numeroEndereco"));
+			cliente.setDescricao(rs.getString("descricao"));
+			
+			clienteList.add(cliente);
+		}
+		rs.close();
+		ps.close();
+		return clienteList;
+	}
+
+	@Override
+	public void update(Connection conn, Cliente entity) throws Exception {
+		String sql = "UPDATE cliente SET nome = ?, sexo = ?, endereco = ?, numeroEndereco = ?, descricao = ? where id = ? ";
+		PreparedStatement ps = conn.prepareStatement(sql);
+		int i = 0;
+		
+		ps.setString(++i, entity.getNome());
+		ps.setString(++i, entity.getSexo());
+		ps.setString(++i, entity.getEndereco());
+		ps.setString(++i, entity.getNumeroEndereco());
+		ps.setString(++i, entity.getDescricao());
+		ps.setLong(++i, entity.getId());
+		
+		ps.executeQuery();
+		ps.close();
+	}
+
+	@Override
+	public void delete(Connection conn, Cliente entity) throws Exception {
+		String sql = "DELETE FROM cliente WHERE id = ? ";
+		PreparedStatement ps = conn.prepareStatement(sql);
+		int i = 0;
+		
+		ps.setLong(++i, entity.getId());
+		
+		ps.executeQuery();
+		ps.close();
+	}
+}
+----------------------------------------------------------------------------------------
+service
+-ClienteService
+package br.com.model.service;
+
+import java.sql.Connection;
+import java.util.List;
+import java.util.Map;
+
+import br.com.model.Conexao;
+import br.com.model.base.BaseCRUDService;
+import br.com.model.dao.ClienteDAO;
+import br.com.model.entity.Cliente;
+
+public class ClienteService implements BaseCRUDService<Cliente>{
+
+	@Override
+	public void create(Cliente entity) throws Exception {
+		Connection conn = Conexao.conectar();
+		try {
+			ClienteDAO dao = new ClienteDAO();
+			dao.create(conn, entity);
+			conn.commit();
+			conn.close();
+		} catch (Exception e) {
+			conn.rollback();
+			conn.close();
+		}		
+	}
+
+	@Override
+	public List<Cliente> readyByCriteria(Map<Integer, Object> criteria) throws Exception {
+		Connection conn = Conexao.conectar();
+		List<Cliente> clienteList = null;
+		try {
+			ClienteDAO dao = new ClienteDAO();
+			clienteList = dao.readyByCriteria(conn, criteria);
+			conn.commit();
+			conn.close();
+		} catch (Exception e) {
+			conn.rollback();
+			conn.close();
+		}
+		return clienteList;
+	}
+
+	@Override
+	public void update(Cliente entity) throws Exception {
+		Connection conn = Conexao.conectar();
+		try {
+			ClienteDAO dao = new ClienteDAO();
+			dao.update(conn, entity);
+			conn.commit();
+			conn.close();
+		} catch (Exception e) {
+			conn.rollback();
+			conn.close();
+		}		
+	}
+
+	@Override
+	public void delete(Cliente entity) throws Exception {
+		Connection conn = Conexao.conectar();
+		try {
+			ClienteDAO dao = new ClienteDAO();
+			dao.delete(conn, entity);
+			conn.commit();
+			conn.close();
+		} catch (Exception e) {
+			conn.rollback();
+			conn.close();
+		}		
+	}	
+}
+----------------------------------------------------------------------------------------
+-Conexao
+package br.com.model;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class Conexao {
+	public static Connection conectar() {
+		String username = "system";
+		String password = "oracle";
+		Connection conn = null;
+		try {
+			Class.forName("oracle.jdbc.driver.OracleDriver");
+			conn = DriverManager.getConnection("jdbc:oracle:thin:@//localhost:1521/XE", username, password);
+		} catch (Exception e) {
+			
+		}
+		return conn;
+	}
+}
+----------------------------------------------------------------------------------------
+-Main
+package br.com.model;
+
+import java.util.List;
+
+import br.com.model.entity.Cliente;
+import br.com.model.service.ClienteService;
+
+public class Main {
+	public static void main (String[] args) throws Exception {
+		ClienteService cs = new ClienteService();
+		Cliente c = new Cliente();
+		
+		//Listar
+		//List<Cliente> clienteList = cs.readyByCriteria(null);
+		//for (Cliente cliente: clienteList) {
+		//	System.out.println(cliente.getId() + cliente.getNome() + cliente.getSexo() + cliente.getEndereco() + cliente.getNumeroEndereco() + cliente.getDescricao());
+		//}
+		
+		//criar
+		//c.setNome("Joao");
+		//c.setSexo("Marculino");
+		//c.setEndereco("Rua D");
+		//c.setNumeroEndereco("N 30");
+		//c.setDescricao("Bagunceiro");
+		//cs.create(c);
+		
+		//atualizar
+		//c.setId(16L);
+		//c.setNome("Edmar");
+		//c.setSexo("Marculino");
+		//c.setEndereco("Rua D");
+		//c.setEndereco("N 30");
+		//c.setDescricao("TOP");
+		//cs.update(c);
+		
+		//deletar
+		//c.setId(16L);
+		//cs.delete(c);	
+	}
+}
+----------------------------------------------------------------------------------------

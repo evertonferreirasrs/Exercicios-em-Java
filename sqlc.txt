@@ -1,0 +1,25 @@
+create table CLIENTE (
+    id INTEGER,
+    nome VARCHAR2(100),
+    sexo VARCHAR2(100),
+	endereco VARCHAR2(100),
+	numeroEndereco VARCHAR2(100),
+	descricao VARCHAR2(100),
+    primary key(id)
+);
+
+create sequence NUM_SEQ
+minvalue 1
+maxvalue 9999999999
+start with 1
+increment by 1
+nocache
+cycle;
+
+insert into CLIENTE (id, nome, sexo, endereco, numeroEndereco, descricao) VALUES (NUM_SEQ.NEXTVAL,'Marcelo', 'Masculino', 'Rua B', 'N 20', 'Boa Pessoa');
+
+SELECT * FROM cliente WHERE 1=1
+
+UPDATE produto SET nome = 'bolacha', preco = 2.5 where id = 1;
+
+DELETE FROM cliente WHERE id = 9;

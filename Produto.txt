@@ -1,0 +1,317 @@
+br.com.model
+----------------------------------------------------------------------------------------
+entity
+-Produto
+package br.com.model.entity;
+
+import br.com.model.base.BaseEntity;
+
+public class Produto extends BaseEntity{
+	private String nome;
+	private Double preco;
+	
+	public String getNome() {
+		return nome;
+	}
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+	public Double getPreco() {
+		return preco;
+	}
+	public void setPreco(Double preco) {
+		this.preco = preco;
+	}	
+}
+----------------------------------------------------------------------------------------
+base
+-BaseEntity
+package br.com.model.base;
+
+public abstract class BaseEntity {
+	private Long id;
+
+	public Long getId() {
+		return id;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
+	}	
+}
+
+-BaseCRUDSERVICE
+package br.com.model.base;
+
+import java.util.List;
+import java.util.Map;
+
+public interface BaseCRUDService<E extends BaseEntity> {
+
+	public void create(E entity) throws Exception;
+	public List<E> readyByCriteria(Map<Integer, Object> criteria) throws Exception;
+	public void updade(E entity) throws Exception;
+	public void delete(E entiry) throws Exception;
+}
+
+-BaseDAO
+package br.com.model.base;
+
+import java.sql.Connection;
+import java.util.List;
+import java.util.Map;
+
+public interface BaseDAO <E extends BaseEntity>{
+	
+	public void create(Connection conn, E entity) throws Exception;
+	public List<E> readyByCriteria(Connection conn, Map<Integer, Object> criteria) throws Exception;
+	public void updade(Connection conn, E entity) throws Exception;
+	public void delete(Connection conn, E entiry) throws Exception;
+}
+----------------------------------------------------------------------------------------
+criteria
+-ProdutoCriteria
+package br.com.model.criteria;
+
+public class ProdutoCriteria {
+	public static Integer ID_IGUAL = 0;
+}	
+----------------------------------------------------------------------------------------
+dao
+-ProdutoDAO
+package br.com.model.dao;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+
+import br.com.model.base.BaseDAO;
+import br.com.model.entity.Produto;
+
+public class ProdutoDAO implements BaseDAO<Produto>{
+
+	@Override
+	public void create(Connection conn, Produto entity) throws Exception {
+		String sql = "insert into produto (id, nome, preco) VALUES (NUM_SEQ.NEXTVAL,?, ?) ";
+		PreparedStatement ps = conn.prepareStatement(sql);
+		int i = 0;
+		ps.setString(++i, entity.getNome());
+		ps.setDouble(++i, entity.getPreco());
+		ps.executeQuery();
+		
+		ps.close();
+	}
+
+	@Override
+	public List<Produto> readyByCriteria(Connection conn, Map<Integer, Object> criteria) throws Exception {
+		String sql = "SELECT * FROM produto WHERE 1=1 ";
+		PreparedStatement ps = conn.prepareStatement(sql);
+		ResultSet rs = ps.executeQuery();
+		List<Produto> produtoList = new ArrayList<>();
+		while(rs.next()) {
+			Produto produto = new Produto();
+			produto.setId(rs.getLong("id"));
+			produto.setNome(rs.getString("nome"));
+			produto.setPreco(rs.getDouble("preco"));
+			produtoList.add(produto);
+		}
+		rs.close();
+		ps.close();
+		return produtoList;
+	}
+
+	@Override
+	public void updade(Connection conn, Produto entity) throws Exception {
+		String sql = "UPDATE produto SET nome = ?, preco = ? where id = ? ";
+		PreparedStatement ps = conn.prepareStatement(sql);
+		int i = 0;
+		ps.setString(++i, entity.getNome());
+		ps.setDouble(++i, entity.getPreco());
+		ps.setLong(++i, entity.getId());
+		ps.executeQuery();
+		ps.close();				
+	}
+
+	@Override
+	public void delete(Connection conn, Produto entiry) throws Exception {
+		String sql = "DELETE FROM produto WHERE id = ? ";
+		PreparedStatement ps = conn.prepareStatement(sql);
+		int i = 0;
+		ps.setLong(++i, entiry.getId());
+		ps.executeQuery();
+		ps.close();
+	}	
+}
+----------------------------------------------------------------------------------------
+service
+-ProdutoService
+package br.com.model.service;
+
+import java.sql.Connection;
+import java.util.List;
+import java.util.Map;
+
+import br.com.model.Conexao;
+import br.com.model.base.BaseCRUDService;
+import br.com.model.dao.ProdutoDAO;
+import br.com.model.entity.Produto;
+
+public class ProdutoService implements BaseCRUDService<Produto> {
+
+	@Override
+	public void create(Produto entity) throws Exception {
+		Connection conn = Conexao.conectar();
+		try {
+			ProdutoDAO dao = new ProdutoDAO();
+			dao.create(conn, entity);
+			conn.commit();
+			conn.close();
+		} catch (Exception e) {
+			conn.rollback();
+			conn.close();
+		}
+	}
+
+	@Override
+	public List<Produto> readyByCriteria(Map<Integer, Object> criteria) throws Exception {
+		Connection conn = Conexao.conectar();
+		List<Produto> produtoList = null;
+		try {
+			ProdutoDAO dao = new ProdutoDAO();
+			produtoList = dao.readyByCriteria(conn, criteria);
+			conn.commit();
+			conn.close();
+		} catch (Exception e) {
+			conn.rollback();
+			conn.close();
+		}
+		return produtoList;
+	}
+
+	@Override
+	public void updade(Produto entity) throws Exception {
+		Connection conn = Conexao.conectar();
+		try {
+			ProdutoDAO dao = new ProdutoDAO();
+			dao.updade(conn, entity);
+			conn.commit();
+			conn.close();
+		} catch (Exception e) {
+			conn.rollback();
+			conn.close();
+		}
+	}
+
+	@Override
+	public void delete(Produto entiry) throws Exception {
+		Connection conn = Conexao.conectar();
+		try {
+			ProdutoDAO dao = new ProdutoDAO();
+			dao.delete(conn, entiry);
+			conn.commit();
+			conn.close();
+		} catch (Exception e) {
+			conn.rollback();
+			conn.close();
+		}
+	}
+}
+----------------------------------------------------------------------------------------
+-Conexao
+package br.com.model;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class Conexao {
+	public static Connection conectar() {
+		String username = "system";
+		String password = "oracle";
+		Connection conn = null;
+		try {
+			Class.forName("oracle.jdbc.driver.OracleDriver");
+			conn = DriverManager.getConnection("jdbc:oracle:thin:@//localhost:1521/XE", username, password);
+		} catch (Exception e) {
+			
+		}
+		return conn;
+	}
+}
+----------------------------------------------------------------------------------------
+-Main
+package br.com.model;
+
+package br.com.model;
+
+import java.util.List;
+import java.util.Scanner;
+
+import br.com.model.entity.Produto;
+import br.com.model.service.ProdutoService;
+
+public class Main {
+	public static void main (String[] args) throws Exception {
+		
+		ProdutoService ps = new ProdutoService();
+		Scanner sc = new Scanner(System.in);
+		int opcao = -1;
+		do {
+			System.out.println("1. criar");
+			System.out.println("2. alterar");
+			System.out.println("3. listar");
+			System.out.println("4. deletar");
+			System.out.println("0. sair");
+			System.out.println("Entre com a opção:");
+			String leitura = sc.next();
+			opcao = Integer.parseInt(leitura);
+			if(opcao == 1) {
+				Produto p = new Produto();
+				System.out.println("Qual é o nome?");
+				String nome = sc.next();
+				System.out.println("Qual é o preco?");
+				Double preco = Double.parseDouble(sc.next());
+				p.setNome(nome);		
+				p.setPreco(preco);
+				ps.create(p);
+				System.out.println("Produto criado com sucesso!");
+			}else if(opcao == 2) {
+				Produto p = new Produto();
+				
+				System.out.println("Qual é o id?");
+				Long id = Long.parseLong(sc.next());
+				System.out.println("Qual é o nome?");
+				String nome = sc.next();
+				System.out.println("Qual é o preco?");
+				Double preco = Double.parseDouble(sc.next());
+				p.setId(id);
+				p.setNome(nome);		
+				p.setPreco(preco);
+				ps.update(p);
+				System.out.println("Produto atualizado com sucesso!");
+			}else if(opcao == 3) {
+				List<Produto> produtoList = ps.readyByCriteria(null);
+				for(Produto produto: produtoList) {
+					System.out.println("Id: "+ produto.getId());
+					System.out.println("Nome: "+ produto.getNome());
+					System.out.println("Preco: "+ produto.getPreco());
+					System.out.println("-----------------------------------");
+				}
+			}else if(opcao == 4) {
+				System.out.println("Qual é o id para deletar?");
+				Long id = Long.parseLong(sc.next());
+				Produto p = new Produto();
+				p.setId(id);
+				ps.delete(p);
+				System.out.println("Produto deletado com sucesso!");
+			}else if(opcao == 0) {
+				System.out.println("Fim do programa!");
+			}else {
+				System.out.println("Opcao Inválida");
+			}			
+		}while(opcao != 0);	
+	}
+}
+----------------------------------------------------------------------------------------

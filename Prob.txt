@@ -1,0 +1,59 @@
+package avancado;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Recursividade {
+	public static void main(String[] args) {
+		System.out.println(fatorialFor(5));
+		System.out.println(fatorial(5));
+		System.out.println(fibonacciFor(10));
+		System.out.println(fibonacci(10, 0, 1));
+	}
+
+	private static int fatorialFor(int numero) {
+		int fatorial = 1;
+		for (int i = 1; i <= numero; i++) {
+			fatorial = fatorial * i;
+		}
+		return fatorial;
+	}
+
+	private static int fatorial(int numero) {
+		if (numero <= 1) {
+			return 1;
+		}
+		return numero * fatorial(numero - 1);
+	}
+
+	private static List<Integer> fibonacciFor(int numero) {
+		int num1 = 0;
+		int num2 = 1;
+		List<Integer> respostaList = new ArrayList<>();
+
+		if (numero == 1) {
+			respostaList.add(num1);
+		} else if (numero >= 2) {
+			respostaList.add(num1);
+			respostaList.add(num2);
+			for (int i = 3; i <= numero; i++) {
+				int aux = num1 + num2;
+				num1 = num2;
+				num2 = aux;
+				respostaList.add(aux);
+			}
+		}
+		return respostaList;
+	}
+
+	private static List<Integer> fibonacci(int numero, int num1, int num2) {
+
+		List<Integer> respostaList = new ArrayList<>();
+
+		if (numero > 0) {
+			respostaList.add(num1);
+			respostaList.addAll(fibonacci(numero - 1, num2, num1 + num2));
+		}
+		return respostaList;
+	}
+}
